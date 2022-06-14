@@ -3,7 +3,7 @@
 </p>
 
 
-<p alight="center">
+<p align="center">
 <a href="https://discord.gg/elegant">
 			<img src="https://canary.discordapp.com/api/guilds/848230687026315285/embed.png" alt="Discord server">
 </p>
