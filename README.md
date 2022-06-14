@@ -12,6 +12,10 @@
 <h1 align="center">Hi, I'm Akai </h1>
 <h3 font-size="20" align="center">A learning developer.</h3>
 
+<p align="center">
+	<img src="animation.gif">
+</p>
+
 
 - 🌱 I’m currently learning **Javascript**
 - 🐍 I've coded discord bots in **Python**
