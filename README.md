@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/747403406154399765"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/747403406154399765?bg=00000000" /></a>
+<a href="https://discord.com/users/747403406154399765"><img align="right" src="https://lanyard.cnrad.dev/api/747403406154399765" /></a>
 
 
 <p align="center">
