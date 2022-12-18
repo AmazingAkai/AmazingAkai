@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 - 🐍 I've coded discord bots in **Python**
-- ✨ Invite my bot https://sugari.xyz/invite
+- ✨ Invite my bot https://sugari.live/invite
 
 ### 👨‍💻 Programming languages
 
