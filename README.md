@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://discord.com/users/747403406154399765">
-      <img src="https://api.lanyard.rest/v1/users/747403406154399765?theme=dark&animated=true" />
+      <img src="https://lanyard.cnrad.dev/api/843391557168267295?animated=true" />
    </a>
 </p>
 
