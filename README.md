@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://discord.com/users/747403406154399765">
-      <img src="https://lanyard.cnrad.dev/api/843391557168267295?animated=true" />
+      <img src="https://lanyard.cnrad.dev/api/747403406154399765?animated=true" />
    </a>
 </p>
 
