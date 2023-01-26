@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Akai </h1>
-<h3 font-size="20" align="center">A learning developer.</h3>
 
 <p align="center">
-	<img src="animation.gif">
+   <a href="https://discord.com/users/747403406154399765">
+      <img src="https://api.lanyard.rest/v1/users/747403406154399765?theme=dark&animated=true" />
+   </a>
 </p>
 
 
