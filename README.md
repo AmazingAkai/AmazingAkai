@@ -20,9 +20,14 @@ console.log(Akai.getIntroduction());
 # Discord
 <p align="center">
    <a href="https://discord.com/users/747403406154399765">
-      <img src="https://lanyard.cnrad.dev/api/747403406154399765?animated=true" />
+      <img src="https://lanyard.cnrad.dev/api/747403406154399765?animated=true&hideDiscrim=true&bg=010409" />
    </a>
 </p>
 
+# Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AmazingAkai&theme=catppuccin&bg_color=282828&hide_border=true&line=9b59b6&point=3d2e48" />
+</div>
 
 
