@@ -33,12 +33,12 @@ console.log(Akai.getIntroduction());
 
 # Activity
 <div align="center">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AmazingAkai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingAkai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmazingAkai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingAkai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AmazingAkai&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
 </div>
+
+
 
 
