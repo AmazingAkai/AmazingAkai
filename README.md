@@ -36,7 +36,7 @@ console.log(Akai.getIntroduction());
   <img src="https://github-readme-stats.vercel.app/api?username=AmazingAkai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingAkai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AmazingAkai&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingAkai&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
 </div>
 
 
