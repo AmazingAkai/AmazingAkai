@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=136EF7&center=true&width=435&lines=Backend+Developer;Loves+Coding;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=136EF7&center=true&width=435&lines=Full+Stack+Developer;Loves+Coding;Always+Learning" alt="Typing SVG" />
   </a>
  </div>
 
@@ -10,9 +10,9 @@
 ```javascript
 const Akai = {
   name: 'Akai',
-  role: 'Backend Developer',
-  skills: ['JavaScript', 'Node.js', 'Python', 'Django', 'ReactJS', 'TailwindCSS'],
-  database: ['SQL', 'MongoDB', 'Firebase'],
+  role: 'Full Stack Developer',
+  skills: ['HTML/CSS/JavaScript', 'Node.js/Express.JS', 'Python/Django/Flask', 'ReactJS/NextJS', 'TailwindCSS'],
+  database: ['MySQL', 'MongoDB', 'PostgreSQL'],
   versionControl: 'Git',
   website: 'https://akai.is-a.dev',
   bio: 'Crafting powerful backend applications.',
