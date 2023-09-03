@@ -15,7 +15,7 @@ const Akai = {
   database: ['MySQL', 'MongoDB', 'PostgreSQL'],
   versionControl: 'Git',
   website: 'https://akai.is-a.dev',
-  bio: 'Crafting powerful backend applications.',
+  bio: 'Crafting powerful web applications.',
   getIntroduction() {
     return `Greetings! I'm ${this.name}, a passionate ${this.role} with expertise in ${this.skills.join(', ')}. ${this.bio} Check out my website at [${this.website}](${this.website}). Let's collaborate and work our magic together! ✨🔥`;
   },
