@@ -11,7 +11,9 @@
 const Akai = {
   name: 'Akai',
   role: 'Full Stack Developer',
-  skills: ['HTML/CSS/JavaScript', 'Node.js/Express.JS', 'Python/Django/Flask', 'ReactJS/NextJS', 'TailwindCSS'],
+  languages: ['HTML/CSS', 'Javascript', 'Python'],
+  frontendTechnologies: ['ReactJS', 'NextJS', 'TailwindCSS'],
+  backendFrameworks: ['Node.JS', 'Express.JS', 'NestJS', 'Django', 'Flask', 'FastAPI'],
   database: ['MySQL', 'MongoDB', 'PostgreSQL'],
   versionControl: 'Git',
   website: 'https://akai.is-a.dev',
