@@ -3,6 +3,11 @@
 Computer science student interested in low level programming, distributed
 systems, and observability tooling. I write mostly C++, Rust, Go, and Python.
 
+📝 Recent posts:
+
+- [`Building Import-Driven Instrumentation for otelc`](https://amazingakai.github.io/posts/building-import-driven-instrumentation-for-otelc/)
+- [`My Path to LFX Mentorship, and Some Advice for Future Mentees`](https://amazingakai.github.io/posts/my-lfx-mentorship-so-far-and-what-id-tell-future-mentees/)
+
 ## What I'm working on
 
 Currently working on
