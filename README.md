@@ -5,6 +5,7 @@ systems, and observability tooling. I write mostly C++, Rust, Go, and Python.
 
 📝 Recent posts:
 
+- [`My LFX Mentorship at OpenTelemetry Has Come to an End`](https://amazingakai.github.io/posts/my-lfx-mentorship-at-opentelemetry-has-come-to-an-end/)
 - [`Building Import-Driven Instrumentation for otelc`](https://amazingakai.github.io/posts/building-import-driven-instrumentation-for-otelc/)
 - [`My Path to LFX Mentorship, and Some Advice for Future Mentees`](https://amazingakai.github.io/posts/my-lfx-mentorship-so-far-and-what-id-tell-future-mentees/)
 
